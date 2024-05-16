@@ -1,8 +1,10 @@
 # make_publication_list_html
 
-While waiting our admins to enable bibtex plugin in our WordPress site we use this script to generate the publication list at http://research.tuni.fi/publications-2
+While waiting our admins to enable bibtex plugin in our WordPress site we use this script to generate the publication list at http://research.tuni.fi/vision/publications-2
 
-*Requires*: Linux, php, xclip
+*Requires*: Linux (tested on 22.04), php (tested on 8.1) , xclip (tested on 0.13)
+
+*Note*: Uses the bibtexbrowser.php from https://github.com/monperrus/bibtexbrowser (tested on commit 8fdc86f Jan 14 2024)
 
 *Usage*:
 
